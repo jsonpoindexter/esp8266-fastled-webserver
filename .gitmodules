@@ -1,0 +1,6 @@
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://github.com/coryking/FastLED
+[submodule "lib/arduinoWebSockets"]
+	path = lib/arduinoWebSockets
+	url = https://github.com/Links2004/arduinoWebSockets
